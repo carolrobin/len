@@ -1,0 +1,6 @@
+def findStringLength(text):
+    return len(text)
+
+sentence = 'This is a sample sentence.'
+length = findStringLength(sentence)
+print("The length of the string is:", length)
